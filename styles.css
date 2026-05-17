@@ -68,7 +68,7 @@ nav {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  padding: 8rem 8rem 4rem;
+  padding: 8rem 6rem 4rem;
   position: relative;
   justify-content: space-between;
 }
@@ -90,7 +90,7 @@ nav {
   z-index: 1;
   flex-shrink: 0;
   width: 420px;
-  margin-right: 25rem;
+  margin-right: 4rem;
 }
 
 .hero-image img {
@@ -154,7 +154,7 @@ nav {
 .btn-ghost:hover { border-color: var(--violet-mid); color: var(--violet); }
 
 /* SECCIONES */
-section { padding: 6rem 8rem; position: relative; z-index: 1; }
+section { padding: 6rem 6rem;; position: relative; z-index: 1; }
 
 .divider {
   border: none;
